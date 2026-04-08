@@ -3,7 +3,7 @@
 > Upload template + CSV → Get 500 certificates in 30 seconds.
 > Runs in browser. No login. No server. Free forever.
 
-🔗 **Live Tool:** [tools.acadkits.dev/certificate-generator](https://tools.acadkits.dev/certificate-generator)
+🔗 **Live Tool:** [AcadKits Certificate Generator ](https://tools.acadkits.dev/certificate-generator)
 
 ---
 
@@ -120,6 +120,9 @@ Other tools:
   — Temporary file sharing, auto-delete links
 - [JSON Formatter](https://tools.acadkits.dev/json-formatter)
 - [Secure Password Generator](https://tools.acadkits.dev/password-generator)
+- [PDF Related Tools](https://tools.acadkits.dev/pdf-compressor)
+- [JWT Generator](https://tools.acadkits.dev/jwt-generator)
+- For More Tools Visit - [AcadKits Tool](https://tools.acadkits.dev)
 
 ---
 
@@ -129,7 +132,11 @@ bulk certificate generator · certificate generator from CSV ·
 free certificate generator · event certificate tool · 
 college certificate generator · workshop certificate maker · 
 bulk certificate download · certificate template generator · 
-no login certificate generator · free bulk certificates
+no login certificate generator · free bulk certificates · certificates generator  · 
+certificate generator  · certificate generator free · free certificate generator · 
+acadkits certificate generator free · acadkits certificate generator · certificate generator free acadkits · 
+certificate generator acadkits · Acadkits certificate generator · event certificate generator free · 
+free events certificate generator · bulk free certificate generator · bulk certificate generator for event 
 
 ---
 
